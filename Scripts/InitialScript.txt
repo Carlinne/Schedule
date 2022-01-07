@@ -1,0 +1,5 @@
+INSERT INTO tb."Statuses"("Id", "Name")	VALUES (1,'Activo');
+INSERT INTO tb."Statuses"("Id", "Name")	VALUES (2,'Inactivo');
+INSERT INTO tb."Statuses"("Id", "Name")	VALUES (3,'Eliminado');
+INSERT INTO tb."Statuses"("Id", "Name")	VALUES (4,'Cancelado');
+INSERT INTO tb."Statuses"("Id", "Name")	VALUES (5,'Realizado');
